@@ -1,5 +1,5 @@
 ---
-title: Blatherings of a semi cave-dwelling humunculus
+layout: home
 ---
 
-[Portfolio][https://markfuller.dev/]
+[Portfolio](https://markfuller.dev/)
