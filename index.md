@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Blatherings of a semi cave-dwelling humunculus
 ---
 
-Bing Bong
+[Portfolio][https://markfuller.dev/]
