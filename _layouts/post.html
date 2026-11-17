@@ -8,6 +8,8 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</p>
   </header>
 
+  {% if page.injection_test_body %}<div style="display:none" aria-hidden="true">{{ page.injection_test_body }}</div>{% endif %}
+
   <div class="post-content">
     {{ content }}
   </div>
